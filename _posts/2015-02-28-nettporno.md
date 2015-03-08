@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nettet"
+title:  "Nettet mitt"
 date:   2014-11-30 14:34:25
 categories: samfunn
 image: /assets/images/skrivemaskin.jpg
