@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Om Evolusjonen"
+title:  "Om evolusjonen"
 date:   2015-04-29 14:34:25
 categories: teologi
-tags: featured
 # image: /assets/images/skrivemaskin.jpg
 ---
 Ok, det her er jo ganske kult.
