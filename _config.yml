@@ -6,9 +6,9 @@ highlighter: pygments
 permalink: /:year/:title/
 
 # Site settings
-title: "Blogg of Per André"
+title: "Per André blogger"
 description: > # this means to ignore newlines until "email:"
-   Åndelighet // samfunn // teologi // Kun det interessante ;)
+   Om åndelighet // kultur // samfunn
 
 email: perandre@gmail.com
 #blog logo
